@@ -1,0 +1,17 @@
+git init 
+	Initialises new repository 
+git add
+	adding to staging part 
+git commit 
+	adding commit message 
+	
+git log 
+	shows log 
+
+git status 
+	check git status, if file is modified and not safed 
+	
+git diff 
+	finds difference between in the changes made 	
+git clone 
+	copy url from copy to clipboard and paste it after command to clone 
