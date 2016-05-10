@@ -15,3 +15,5 @@ git diff
 	finds difference between in the changes made 	
 git clone 
 	copy url from copy to clipboard and paste it after command to clone 
+git push origin master 
+	remeber to add file and commit before this command
